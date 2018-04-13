@@ -1,3 +1,17 @@
+This is the Alastria implementation of Ethereum ENS.
+
+The address of the contracts are:
+```
+  ENSRegistry: 0xce41fceda82ec01af1a2797459d6a539de9d3b89
+  FIFSRegistrar: 0xf1a2039aca145ad0bf2a489fda65fccbeb547db6
+
+```
+
+Forked from:
+https://github.com/ethereum/ens
+
+# Wiki:
+
 # ENS
 
 [![Build Status](https://travis-ci.org/ethereum/ens.svg?branch=master)](https://travis-ci.org/ethereum/ens)
