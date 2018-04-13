@@ -73,5 +73,8 @@ module.exports = function(deployer, network) {
   else if (network === 'dev.auction') {
     deployAuctionRegistrar(deployer, tld);
   }
+  else if (network === 'alastria') {
+    deployFIFSRegistrar(deployer, tld);
+  }
 
 };
